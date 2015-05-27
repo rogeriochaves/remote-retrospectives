@@ -19,3 +19,10 @@ Have fun retrospectives using Google Docs.
 [How it works](http://www.funretrospectives.com/hot-air-balloon-bad-weather/)
 
 ![image](https://cloud.githubusercontent.com/assets/792201/7844634/40d4d7f4-0488-11e5-842e-ecdefcc6cf70.png)
+
+## 3Ls Retrospective
+
+[Open activity](https://docs.google.com/drawings/d/1JPOVd2BcBwvzG6Y91LgVBcSmQ3Ls6kfPo4Gh0Mq0H1E/edit) |
+[How it works](http://www.funretrospectives.com/the-3-ls-liked-learned-lacked/)
+
+![image](https://cloud.githubusercontent.com/assets/792201/7844696/96fe8620-0488-11e5-937a-7e05fb9a0c94.png)
