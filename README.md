@@ -26,3 +26,10 @@ Have fun retrospectives using Google Docs.
 [How it works](http://www.funretrospectives.com/the-3-ls-liked-learned-lacked/)
 
 ![image](https://cloud.githubusercontent.com/assets/792201/7844696/96fe8620-0488-11e5-937a-7e05fb9a0c94.png)
+
+## Open the Box Retrospective
+
+[Open activity](https://docs.google.com/drawings/d/1aj9c0qSeEmzbf1qbmwYFDn-heaUe3id123GidKTSDM8/edit) |
+[How it works](http://www.funretrospectives.com/open-the-box/)
+
+![image](https://cloud.githubusercontent.com/assets/792201/7844741/efe3e24e-0488-11e5-9960-7943e6b2d7e3.png)
