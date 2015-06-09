@@ -1,12 +1,12 @@
-# Fun Remote Restrospectives
+# Fun Remote Retrospectives
 
 Have fun retrospectives using Google Docs.
 
-1. Open one of the activities bellow
+1. Open one of the activities below
 2. Log in with your Google account and go to File > Make a Copy...
 3. Share with whomever you want and have a fun retro
 
-## Speed Car – Abyss Restrospective
+## Speed Car – Abyss Retrospective
 
 [Open activity](https://docs.google.com/drawings/d/19VQd_Aonn5pm8k8yzHUN7Mup7YZmcBgqV06DO-Q-0kI/edit) |
 [How it works](http://www.funretrospectives.com/speed-car/)
