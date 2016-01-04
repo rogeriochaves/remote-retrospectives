@@ -25,11 +25,18 @@ Have fun retrospectives using Google Docs.
 [Open activity](https://docs.google.com/drawings/d/1JPOVd2BcBwvzG6Y91LgVBcSmQ3Ls6kfPo4Gh0Mq0H1E/edit) |
 [How it works](http://www.funretrospectives.com/the-3-ls-liked-learned-lacked/)
 
-![image](https://cloud.githubusercontent.com/assets/792201/7844696/96fe8620-0488-11e5-937a-7e05fb9a0c94.png)
+![image](https://cloud.githubusercontent.com/assets/792201/12090549/0c198304-b2d7-11e5-80b1-b0c9911bf11e.png)
 
 ## Open the Box Retrospective
 
 [Open activity](https://docs.google.com/drawings/d/1aj9c0qSeEmzbf1qbmwYFDn-heaUe3id123GidKTSDM8/edit) |
 [How it works](http://www.funretrospectives.com/open-the-box/)
 
-![image](https://cloud.githubusercontent.com/assets/792201/7844741/efe3e24e-0488-11e5-9960-7943e6b2d7e3.png)
+![image](https://cloud.githubusercontent.com/assets/792201/12090550/0c1b01a2-b2d7-11e5-8d28-b51758a96fe6.png)
+
+## The CAPT activity
+
+[Open activity](https://docs.google.com/drawings/d/1aL6VNRigSetmDesAbEWcQbsqMg2PEW-gVGtyBvQcuGU/edit) |
+[How it works](http://www.funretrospectives.com/the-capt-activity-confident-or-aprehansive-x-people-or-tech/)
+
+![image](https://cloud.githubusercontent.com/assets/792201/12090551/0c1bd500-b2d7-11e5-8c94-f22d6d1758fd.png)
